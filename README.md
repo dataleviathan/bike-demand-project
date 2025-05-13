@@ -22,17 +22,17 @@ Missing values: 10,681 (1.22%)
 
 Key variables include:
 
-Start/End Station IDs
+• Start/End Station IDs
 
-Trip Duration
+• Trip Duration
 
-Distance (miles)
+• Distance (miles)
 
-Start Per Capita Income
+• Start Per Capita Income
 
-Percentage of Households Without Vehicles
+• Percentage of Households Without Vehicles
 
-Time of Day (Day/Evening)
+• Time of Day (Day/Evening)
 
 **Descriptive Analytics**
 
